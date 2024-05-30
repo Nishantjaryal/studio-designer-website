@@ -45,7 +45,7 @@ body {
   scroll-behavior: smooth;
   background-color: #efeae3;
   position: relative;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 #main{
