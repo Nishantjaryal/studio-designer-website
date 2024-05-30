@@ -107,7 +107,7 @@ nav {
 #page1 video{
     padding: 2vw;
     width: 100%;
-    border-radius: 50px;
+    border-radius: 5vw;
     position: relative;
     z-index: 10;
 }
@@ -225,6 +225,14 @@ hr{
     background-color: none;
 }
 
+@media only screen and (max-width: 400px) {
+    #center{
+      
+        justify-content: right;
+      
+    }
+  }
+
 #left h2{
     width:25vw;
     font-size: 1.8vw;
@@ -256,15 +264,16 @@ hr{
 
     min-width: 250px;
     width:25vw;
-    font-size: 16px;
-    line-height: 16px;
+    font-size: 20px;
+    line-height: 20px;
+    text-align: right;
 
     
 } 
 
 #right h1{
     display: block;
-    font-size: 70px;
+    font-size: 84px;
     /* width: 45vw; */ 
     /* i can rather use br tag */
     text-align: right;
@@ -498,7 +507,7 @@ hr{
 }
 
 #page2-bottom h1{
-    min-width: 250px;
+    min-width: 300px;
     width: 50vw;
     font-size: 4.2vw;
     line-height: 4.4vw;
@@ -508,6 +517,8 @@ hr{
 
 #cardcontainer{
     /* background-color: #FE330A; */
+    min-width: 300px;
+
     width: 30vw;
     height: 80vh;
     display: flex;
@@ -521,7 +532,7 @@ hr{
 
 
 #card{
-    min-width: 250px ;
+    min-width: 300px ;
     width: 20vw;
 }
 
@@ -660,6 +671,10 @@ li p{
     top:0px;
 }
 
+a{
+    cursor: pointer;
+}
+
 
 @media screen and (max-width:500px) {
     .elem h2{font-size: 2.5vh;}
@@ -750,14 +765,17 @@ li p{
     align-items: center;
     justify-content: center;
     padding-top: 5vw;
+    /* margin-top: 5vh; */
     
 }
 
 #headbinder{
+    
     width: 25vw;
 
 }
 #headbinder h2{
+    
     color: #4d4c4b;
 
     font-size: 4.7vw;
