@@ -16,9 +16,10 @@ A clean and modern responsive website template for design studios, freelancers, 
 
 - **Frontend:** HTML5, CSS3, JavaScript  
 - **Styling:**  CSS  
-- **Deployment:** Netlify 
+- **Deployment:** Netlify
 
-![std_dsn](https://github.com/user-attachments/assets/6f88cc88-ddcb-489b-8ad4-a6898bef5f73)
+  
+![std_dsn](https://github.com/user-attachments/assets/438e648f-b75f-47dc-963d-69b7656af347)
 ![aa](https://github.com/user-attachments/assets/0634a802-5130-425a-80e2-f714aa5bcaad)
 
 
