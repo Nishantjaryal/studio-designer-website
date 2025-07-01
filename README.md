@@ -8,7 +8,6 @@ A clean and modern responsive website template for design studios, freelancers, 
 - ⚡ Responsive and mobile-friendly layout  
 - 🎞️ Smooth animations and transitions  
 - 🖼️ Portfolio/project showcase  
-- 📬 Integrated contact form  
 - 🔍 SEO-friendly and accessible
 - 📂 clean and Light weight 
 
